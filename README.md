@@ -1,2 +1,2 @@
-# Mre-no-i-distribuirano-programiranje
+# Mrežno i distribuirano programiranje
 Materijali za MDP
